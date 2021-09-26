@@ -7,6 +7,7 @@ int main()
 	float b,h,area;
 	printf("Base of a triangle:");
 	scanf("%f",&b);
+
 	printf("Perpendicular height of a triangle:");
 	scanf("%f",&h);
 	

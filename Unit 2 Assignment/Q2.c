@@ -8,7 +8,7 @@ Enter value of b:1*/
  
  int main()
 {
-	float a, b;
+	float a,b;
 	printf("Enter the value of a:");
 	scanf("%f",&a);
 	printf("Enter the value of b:");
