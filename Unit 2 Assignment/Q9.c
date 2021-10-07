@@ -5,6 +5,7 @@
 int main()
 {
 	float b,h,area;
+
 	printf("Base of a triangle:");
 	scanf("%f",&b);
 
@@ -13,5 +14,6 @@ int main()
 	
 	area=(b*h)/2;
 	printf("Area of a triangle : %.2f\n",area);
+
 	return 0;
 }

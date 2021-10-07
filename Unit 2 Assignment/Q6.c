@@ -3,8 +3,10 @@
 #include <stdio.h>
 
 int main()
+
 {
 	int days,yrs,weeks;
+
 	printf("Enter the number of Days:");
 	scanf("%d",&days);
 	
